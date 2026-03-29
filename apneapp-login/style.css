@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background: #f4f7fb;
+  text-align: center;
+  padding: 40px;
+}
+
+.login-container, .dashboard {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 300px;
+  margin: auto;
+}
+
+input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+.risk {
+  color: orange;
+}
